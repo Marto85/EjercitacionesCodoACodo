@@ -1,0 +1,39 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+
+.atm {
+    width: 90%;
+    height: 90%;
+    margin: auto;
+    background-image: url('cajero.png');
+    background-size: cover;
+    background-position: center;
+    color: whitesmoke;
+    text-align: center;
+    padding: 30px;
+}
+
+.atm h1 {
+    font-size: 30px;
+    margin-top: 15px;
+    margin-bottom: 25px;
+}
+
+.subtitle {
+    margin-top: 15px;
+}
+
+.atm button {
+    display: block;
+    margin: 20px auto 0 auto;
+    width: 280px;
+    
+    font-size: 15px;
+    font-weight: bold;
+    text-align: start;
+    align-items: self-start;
+}
