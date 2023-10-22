@@ -18,20 +18,22 @@ html, body {
 }
 
 .atm h1 {
+    max-height: 20px;
     font-size: 30px;
-    margin-top: 15px;
+    margin-top: 30px;
     margin-bottom: 25px;
+    text-align: center;
+    
 }
 
 .subtitle {
-    margin-top: 15px;
+    margin-top: 30px;
 }
 
 .atm button {
     display: block;
     margin: 20px auto 0 auto;
     width: 280px;
-    
     font-size: 15px;
     font-weight: bold;
     text-align: start;
